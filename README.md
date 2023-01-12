@@ -2,7 +2,7 @@
 
 -----------
 
-![Finanl Planning](Challenge-image.png)
+![Finanl Planning](stock_clustering_image.png)
 
 -----------
 
@@ -26,8 +26,7 @@ This project leverages python 3.7 with the following packages:
 * [Matplotlib](https://matplotlib.org/stable/index.html) -  Matplot library used for graph plotting
 * [Pathlib](https://docs.python.org/3/library/pathlib.html) - Path library to provide local file path
 * [hvplot](https://hvplot.holoviz.org/) - High-level API for data exploration and visualization 
-* [scikit-learn](https://voila.readthedocs.io/en/stable/using.html](https://scikit-learn.org/stable/install.html) - Scikit-learn is an open source machine learning library that supports supervised and unsupervised learning.
-*
+* [Scikit](https://scikit-learn.org/stable/install.html) - Scikit-learn is an open source machine learning library that supports supervised and unsupervised learning.
 
 ## Installation Guide
 
