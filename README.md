@@ -20,7 +20,7 @@ Numpy library for mathematical computation. Hvplot library for creating static, 
 
 This project leverages python 3.7 with the following packages:
 
-* [CSV](https://docs.python.org/3/library/csv.html) - CVS library is utlized to read and store the data.
+* [CSV](https://docs.python.org/3/library/csv.html) - CSV library is utlized to read and store the data.
 * [Pandas](https://github.com/pandas-dev/pandas) - Pandas library is utlized to prepare and analyze the data
 * [Numpy](https://numpy.org/doc/stable/user/whatisnumpy.html) - Numpy library used for math calculations
 * [Matplotlib](https://matplotlib.org/stable/index.html) -  Matplot library used for graph plotting
